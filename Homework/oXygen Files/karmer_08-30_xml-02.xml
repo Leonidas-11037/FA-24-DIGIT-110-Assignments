@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <title>The Recipe</title>
+    <originalRecipe>Shrewsbury Cakes. Take a pound of fresh butter a pound of double refind sugar
+        sifted fine a little beaten mace &amp; 4 eggs beat them all together with. your hands till
+        tis very leight &amp; looks curdling you put thereto a pound &amp; 1/2 of flower roul them
+        out into little cakes</originalRecipe>
+    <modifiedRecipe>Our recipe (halved from the original) 
+        <ing quant="0.5" unit="lb" key="but" cat="oil">1/2 lb. (2 sticks) butter, softened</ing>
+        <ing quant="0.5" unit="lb" key="sug" cat="gran">1/2 lb. sugar</ing>
+        <ing quant="0.25" unit="tsp" key="mac" cat="spice">1/4 tsp. mace</ing>
+        <ing quant="0.5" unit="tsp" key="cin" cat="spice">1/2 tsp. cinnamon</ing>
+        <ing quant="2" unit="egg" key="egg" cat="pro">2 eggs</ing>
+        <ing quant="0.75" unit="lb" key="flo" cat="gran">3/4 lb. flour</ing>
+        
+        <inst mand="true">Using an electric mixer, cream together the <ing ref="but">butter</ing>
+            and <ing ref="sug">sugar</ing>. Then add the <ing ref="egg">eggs</ing> and mix at medium
+            speed until the mixture looks curdled. Sift together dry ingredients and add at low
+            speed until just combined. Scoop and roll the dough by hand into 1-tbsp. balls, then pat
+            flat. [You could also refrigerate the dough until it’s firm enough to roll out on a flat
+            surface and cut out into rounds.] <bake>Bake at <temp unit="F">350F</temp> for <time
+            unit="minute">15-18 minutes</time> (ours were about 1/3″ thick, so you could
+            roll them thinner and have a slightly shorter cooking time) They’re done once they
+            turn the slightest bit brown around the edges.</bake></inst> This halved recipe
+            yielded about two dozen cookies. The Results If you like snickerdoodles (and who doesn’t?)
+            you’d like these. <inst optional="true">We added the cinnamon because we like it and
+            couldn’t resist, and we thought it rounded out the <ing ref="mac">mace</ing>
+            nicely.</inst> These are mild, fairly soft cookies that are great with tea. <inst
+            optional="true">We rolled and patted the dough into individual cookies because it was
+            too soft and stick to roll out, but a little bit more <ing ref="flo">flour</ing> and a
+            stint in the fridge might make the dough easier to work with a rolling pin.</inst>
+        <!-- Anything can be easier if you use the right tools. -->
+    </modifiedRecipe>
+</root>
